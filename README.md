@@ -1,0 +1,4 @@
+trueque
+=======
+
+Proyecto de trueques
